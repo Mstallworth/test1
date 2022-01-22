@@ -1,3 +1,3 @@
 # KBAI RPM Project 
 
-Milestone 1 - Jan 2022
+Milestone mini project 1 - Jan 2022
